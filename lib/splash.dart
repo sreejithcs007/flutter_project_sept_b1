@@ -27,6 +27,8 @@ class Splash extends StatelessWidget{
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               // Icon(Icons.dark_mode,size : 100, color: Colors.white,),
+              //Image.asset("assets/icons/bat.png"),
+              //Image.network("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPN54gqYu08y8e5-iq2xm8k6GtevxI2_xO7w&usqp=CAU"),
               Image(image: AssetImage("assets/icons/bat.png"),height: 100,width: 100,),
               //Image(image: NetworkImage("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPN54gqYu08y8e5-iq2xm8k6GtevxI2_xO7w&usqp=CAU"),),
               Text("NIPHAH",
