@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_project_sept_b1/login_page.dart';
+import 'package:flutter_project_sept_b1/reg_login/login_page.dart';
 
 import 'package:lottie/lottie.dart';
 

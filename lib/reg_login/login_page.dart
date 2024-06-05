@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_project_sept_b1/home.dart';
-import 'package:flutter_project_sept_b1/registration_page.dart';
+import 'package:flutter_project_sept_b1/reg_login/registration_page.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class LoginPage extends StatelessWidget{
